@@ -1,12 +1,7 @@
 # MERN Real Estate Project
 
-## Course Introduction
-- **Course Title:** Full Stack MERN Real Estate Project
-- **Objective:** Build and deploy a real estate web application using the MERN stack with advanced features.
-- **Technologies:** React, MongoDB, Node.js, Express, Tailwind CSS, React Router DOM, JSON Web Tokens (JWT), Google OAuth, Redux Toolkit.
-
 ## Project Overview
-- **Application Type:** Real estate platform (like Realtor).
+- **Technologies:** React, MongoDB, Node.js, Express, Tailwind CSS, React Router DOM, JSON Web Tokens (JWT), Google OAuth, Redux Toolkit.
 - **Key Features:**
   - User authentication (JWT, Google OAuth).
   - CRUD functionality for property listings.
@@ -14,8 +9,8 @@
   - Advanced search with sorting/filtering.
   - Deployed on Render.
 
-## Development Breakdown
 
+## Development Breakdown
 ### Setup & Configuration
 - React and Tailwind CSS setup.
 - React Router DOM for dynamic routing.
@@ -33,7 +28,6 @@
 ### Deployment
 - Render platform deployment.
 
-## Technical Implementation
 
 ### Frontend
 - **React:** Component-based UI.
@@ -54,11 +48,6 @@
 ## Additional Features
 - **GitHub Integration:** Regular commits and version control.
 - **Error Handling:** Centralized error management.
-
-## Next Steps
-- Finalize UI and image upload functionality.
-- Complete search and filtering.
-- Ensure secure deployment.
 
 ## UI & Functionality
 - **Checkbox/Input Design:** For sale, rent, parking options.
